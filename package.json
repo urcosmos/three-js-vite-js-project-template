@@ -1,0 +1,28 @@
+{
+  "name": "08_three_template_vite",
+  "version": "1.0.0",
+  "description": "My template for simple projects with three.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev",
+    "prod": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "Egor Ovchinnikov <urc@evoe.dev>",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^1.8.2",
+    "autoprefixer": "^10.4.7",
+    "sass": "^1.53.0",
+    "terser": "^5.14.1",
+    "vite": "^3.0.0-beta.10",
+    "vite-aliases": "^0.9.2"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "three": "^0.142.0"
+  },
+  "browserslist": [
+    "cover 99.5%"
+  ]
+}

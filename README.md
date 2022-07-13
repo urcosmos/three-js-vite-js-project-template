@@ -1,0 +1,1 @@
+# Template for projects with Three.js and Vite.js
